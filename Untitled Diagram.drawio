@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T01:30:53.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="JcOMeCGOxRf1lmfkNJaS" version="14.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-11T12:13:44.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zIdiS0m7UKUIoAWxsEM3" version="14.4.7" type="github" pages="2">
   <diagram id="dmi3Me1z_EmWWBVjKZzF" name="Page-1">
-    <mxGraphModel dx="1303" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nhpU6l_29sn138L17O0z-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="180" width="80" height="80" as="geometry" />
+        <mxCell id="kUGjupG6uJAVTP5oGHfI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kUGjupG6uJAVTP5oGHfI-2" target="kUGjupG6uJAVTP5oGHfI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUGjupG6uJAVTP5oGHfI-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;查询凭证分录，按照期间分组，统计不同期间分录数量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kUGjupG6uJAVTP5oGHfI-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
